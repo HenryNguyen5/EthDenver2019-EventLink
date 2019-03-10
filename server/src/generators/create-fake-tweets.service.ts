@@ -14,7 +14,7 @@ function generateTweetText(cityName: string) {
       count: 1, // Number of words, sentences, or paragraphs to generate.
       units: "sentences", // Generate words, sentences, or paragraphs.
       sentenceLowerBound: 5, // Minimum words per sentence.
-      sentenceUpperBound: 15, // Maximum words per sentence.,
+      sentenceUpperBound: 5, // Maximum words per sentence.,
       format: "plain"
     }),
     `#ETH${normalizedName}`

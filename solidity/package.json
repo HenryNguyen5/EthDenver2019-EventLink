@@ -1,0 +1,26 @@
+{
+    "name": "hyperlink",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "truffle test",
+        "export-abi": "node scripts/export-abi",
+        "build": "truffle compile"
+    },
+    "author": "",
+    "dependencies": {
+        "chainlink": "github:smartcontractkit/chainlink",
+        "link_token": "^1.0.1",
+        "solc": "0.4.24"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "bn.js": "^4.11.8",
+        "ethereumjs-abi": "^0.6.6",
+        "ethereumjs-util": "^6.1.0"
+    }
+}
