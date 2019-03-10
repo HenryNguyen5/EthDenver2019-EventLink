@@ -2,7 +2,7 @@
   <img src="https://pbs.twimg.com/media/DyMpqOVU8AAfM4R.jpg" />
 </div>
 
-# HyperLink: ETHDenver2019 Project
+# EventLink: ETHDenver2019 Project
 
 An event scheduler application that
 allows events to be kickstarted based on
@@ -17,9 +17,3 @@ everyone to benefit and have a great time.
 * Sharon Manrique
 * Max Seesing
 
-### Setup
-
-```
-    npm install
-    npm start
-```
